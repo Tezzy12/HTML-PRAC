@@ -1,0 +1,87 @@
+body{
+    background-image:url("/images/background.jpeg");
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+h1{
+    color:white;
+    text-shadow:2px 2px 2px blue;
+}
+h3{
+    color:white;
+    text-shadow:3px 3px 3px blue;
+}
+#csp{
+    height:900px;
+    width:500px;
+    position: absolute;
+    top:80px;
+}
+#gar{
+
+    position: absolute;
+    top:80px;
+    left:508px;
+
+}
+#gartext{
+    font-size:20px;
+    color:white;
+    text-shadow:3px 3px 3px blue;
+    position: absolute;
+    top:280px;
+    left:540px;
+
+
+
+}
+#reed{
+    height:200px;
+    width:200px;
+    position:absolute;
+    top:80px;
+    left:900px;
+}
+#reedtext{
+    font-size:20px;
+    color:white;
+    text-shadow:3px 3px 3px blue;
+    position: absolute;
+    top:280px;
+    left:940px;
+}
+ #Henry{
+    height:200px;
+    width:200px;
+    position:absolute;
+    top:350px;
+    left:508px;
+ }
+
+ #Henrytext{
+    font-size:20px;
+    color:white;
+    text-shadow:3px 3px 3px blue;
+    position: absolute;
+    top:550px;
+    left:920px;
+
+ }
+ #lando{
+    width:200px;
+    height:200px;
+    position: absolute;
+    top:350px;
+    left:900px;
+
+}
+ #landotext{
+    font-size:20px;
+    color:white;
+    text-shadow:3px 3px 3px blue;
+    position: absolute;
+    top:550px;
+    left:538px;
+ }
